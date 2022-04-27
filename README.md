@@ -1,2 +1,3 @@
-# GIT-PRACTICE
+GIT-PRACTICE
 Ejample of a readme file 
+

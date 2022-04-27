@@ -1,2 +1,2 @@
-# GIT-PRACTICO
-Ejemplo de utilización de git para proyectos de desarollo
+# GIT-PRACTICE
+Ejample of a readme file 
